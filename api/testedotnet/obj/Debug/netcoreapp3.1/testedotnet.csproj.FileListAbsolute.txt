@@ -1,0 +1,78 @@
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\testedotnet.exe
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\testedotnet.deps.json
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\testedotnet.runtimeconfig.json
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\testedotnet.runtimeconfig.dev.json
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\testedotnet.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\testedotnet.pdb
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.csprojAssemblyReference.cache
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.RazorTargetAssemblyInfo.cache
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.csproj.CopyComplete
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\obj\Debug\netcoreapp3.1\staticwebassets\testedotnet.StaticWebAssets.Manifest.cache
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\obj\Debug\netcoreapp3.1\staticwebassets\testedotnet.StaticWebAssets.xml
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.dll
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.pdb
+C:\Users\Arthur\Desktop\Dev\Teste dotnet\filmes\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\testedotnet.exe
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\testedotnet.deps.json
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\testedotnet.runtimeconfig.json
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\testedotnet.runtimeconfig.dev.json
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\testedotnet.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\testedotnet.pdb
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.csprojAssemblyReference.cache
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.RazorTargetAssemblyInfo.cache
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.csproj.CopyComplete
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\obj\Debug\netcoreapp3.1\staticwebassets\testedotnet.StaticWebAssets.Manifest.cache
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\obj\Debug\netcoreapp3.1\staticwebassets\testedotnet.StaticWebAssets.xml
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.dll
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.pdb
+C:\Users\Arthur\Desktop\Dev\FilmesCRUD\api\testedotnet\obj\Debug\netcoreapp3.1\testedotnet.genruntimeconfig.cache

@@ -14,7 +14,12 @@ namespace testedotnet.Controllers
         [HttpGet]
         [Route("")]
         public async Task<ActionResult<List<Filmes>>> Get([FromServices] DataContext context){
-            return await context.Filmes.ToListAsync();
+            var lista = await context.Filmes.ToListAsync();
+            foreach(var item in lista){
+                var gen = await context.Generos.FirstOrDefaultAsync(g => g.Id == item.GeneroId);
+                item.Genero = gen?.Nome;
+            }
+            return lista;
         }
 
         [HttpPost]

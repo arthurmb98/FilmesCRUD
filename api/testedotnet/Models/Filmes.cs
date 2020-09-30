@@ -8,9 +8,16 @@ namespace testedotnet.Models
 
         [Required(ErrorMessage="Este campo é obrigatório")]
         public string Titulo {get; set;}
+
         [Required(ErrorMessage="Este campo é obrigatório")]
         public string Diretor {get; set;}
-        public Generos Genero {get; set;}
-        public string Ano {get; set;}
+        
+        public int GeneroId { get; set; }
+
+        public string Genero {get; set;}
+
+        public string Sinopse {get; set;}
+
+        public int? Ano {get; set;}
     }
 }
