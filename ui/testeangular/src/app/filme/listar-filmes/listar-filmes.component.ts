@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {SharedService} from 'src/app/shared.service';
+import { IncluirFilmeComponent } from '../incluir-filme/incluir-filme.component';
 
 @Component({
   selector: 'app-listar-filmes',
@@ -8,15 +9,22 @@ import {SharedService} from 'src/app/shared.service';
 })
 export class ListarFilmesComponent implements OnInit {
 
-  constructor(private service:SharedService) { this.refreshFilmeList(); }
+  constructor(private service:SharedService ) {
+    this.refreshFilmeList();
+  }
 
   ListaFilmes:any=[];
+  ListaGeneros:any=[];
+
+  pageSize = 4;
+  page = 1;
+  totalPage = 10;
 
   ModalTitle:string;
   ActivateAddEditFilme:boolean=false;
   filme:any;
 
-  FilmeGeneroFilter:string="";
+  FilmeGeneroFilter:string;
   FilmeNomeFilter:string="";
   FilmeListSemFiltro:any=[];
 
@@ -32,7 +40,6 @@ export class ListarFilmesComponent implements OnInit {
     }
     this.ModalTitle="Incluir";
     this.ActivateAddEditFilme=true;
-
   }
 
   editClick(item){
@@ -44,13 +51,13 @@ export class ListarFilmesComponent implements OnInit {
   consultarClick(item){
     this.filme=item;
     this.ModalTitle="Consultar";
-    this.ActivateAddEditFilme=false;
+    this.ActivateAddEditFilme=true;
   }
 
   deleteClick(item){
     if(confirm('Você realmente deseja deletar este item?')){
       this.service.deleteFilme(item.id).subscribe(data=>{
-        alert(data.toString());
+        alert("Sucesso!");
         this.refreshFilmeList();
       })
     }
@@ -65,6 +72,10 @@ export class ListarFilmesComponent implements OnInit {
     this.service.getFilmes().subscribe(data=>{
       this.ListaFilmes=data;
       this.FilmeListSemFiltro=data;
+      this.totalPage = 10 * Math.max(this.ListaFilmes.length / this.pageSize);
+    });
+    this.service.getGeneros().subscribe(data=>{
+      this.ListaGeneros=data;
     });
   }
 

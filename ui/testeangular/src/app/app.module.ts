@@ -6,26 +6,26 @@ import { AppComponent } from './app.component';
 import { FilmeComponent } from './filme/filme.component';
 import { ListarFilmesComponent } from './filme/listar-filmes/listar-filmes.component';
 import { IncluirFilmeComponent } from './filme/incluir-filme/incluir-filme.component';
-import { EditarFilmeComponent } from './filme/editar-filme/editar-filme.component';
 import{ SharedService } from './shared.service';
 
 import {HttpClientModule} from '@angular/common/http';
-import {FormsModule, ReactiveFormsModule} from '@angular/forms'
+import {FormsModule, ReactiveFormsModule} from '@angular/forms';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap'
 
 @NgModule({
   declarations: [
     AppComponent,
     FilmeComponent,
     ListarFilmesComponent,
-    IncluirFilmeComponent,
-    EditarFilmeComponent
+    IncluirFilmeComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    NgbModule
   ],
   providers: [SharedService],
   bootstrap: [AppComponent]

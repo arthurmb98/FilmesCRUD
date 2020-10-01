@@ -12,13 +12,22 @@ namespace testedotnet.Data
             .HasOne<Generos>()
             .WithMany()
             .HasForeignKey(p => p.GeneroId);
+            
 
         }
 
-        public DataContext(DbContextOptions<DataContext> options) :  base(options){
+        // public DataContext(DbContextOptions<DataContext> options) :  base(options){
 
+        // }
+
+        public DataContext()
+        {
         }
 
+        protected override void OnConfiguring(DbContextOptionsBuilder options)
+            => options.UseInMemoryDatabase(databaseName: "Database");
+            //"Data Source=banco.db"
+//
         public DbSet<Filmes> Filmes {get; set;}
         public DbSet<Generos> Generos {get; set;}
     }
