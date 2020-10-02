@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, SimpleChanges } from '@angular/core';
 import {SharedService} from 'src/app/shared.service';
 import { IncluirFilmeComponent } from '../incluir-filme/incluir-filme.component';
 
@@ -9,12 +9,13 @@ import { IncluirFilmeComponent } from '../incluir-filme/incluir-filme.component'
 })
 export class ListarFilmesComponent implements OnInit {
 
-  constructor(private service:SharedService ) {
-    this.refreshFilmeList();
+  constructor(private service:SharedService) {
+
   }
 
   ListaFilmes:any=[];
   ListaGeneros:any=[];
+  inputsDesabilitados = true;
 
   pageSize = 4;
   page = 1;
@@ -24,11 +25,12 @@ export class ListarFilmesComponent implements OnInit {
   ActivateAddEditFilme:boolean=false;
   filme:any;
 
-  FilmeGeneroFilter:string;
+  FilmeGeneroFilter:string="";
   FilmeNomeFilter:string="";
   FilmeListSemFiltro:any=[];
 
   ngOnInit(): void {
+    this.refreshFilmeList();
   }
 
   addClick(){
@@ -40,18 +42,21 @@ export class ListarFilmesComponent implements OnInit {
     }
     this.ModalTitle="Incluir";
     this.ActivateAddEditFilme=true;
+    this.inputsDesabilitados = false;
   }
 
   editClick(item){
     this.filme=item;
     this.ModalTitle="Editar";
     this.ActivateAddEditFilme=true;
+    this.inputsDesabilitados = false;
   }
 
-  consultarClick(item){
+  consultClick(item){
     this.filme=item;
     this.ModalTitle="Consultar";
     this.ActivateAddEditFilme=true;
+    this.inputsDesabilitados = true;
   }
 
   deleteClick(item){
@@ -67,6 +72,8 @@ export class ListarFilmesComponent implements OnInit {
     this.ActivateAddEditFilme=false;
     this.refreshFilmeList();
   }
+
+
 
   refreshFilmeList(){
     this.service.getFilmes().subscribe(data=>{
